@@ -1,11 +1,3 @@
-/**
- * * This file is part of the Boot Camp project.
- * * This class demonstrates the addition of two numbers 
- * * using a separate class.
- * * @author Dr. S. Sampath Kumar
- * * @since 08-07-2025
- * * @version 1.0
- */
 import java.util.Scanner;
 class Add
 { 
